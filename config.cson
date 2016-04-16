@@ -1,0 +1,29 @@
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+    autocompleteSmartQuotes: false
+  core:
+    disabledPackages: [
+      "activate-power-mode"
+      "editor-background"
+      "remote-edit"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontFamily: "consolas"
+    fontSize: 15
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "editor-background":
+    image: {}
+  "exception-reporting":
+    userId: "a523ba52-a8aa-284e-d3eb-5c10292d18aa"
+  "highlight-selected": {}
+  minimap:
+    absoluteMode: true
+  welcome:
+    showOnStartup: false
